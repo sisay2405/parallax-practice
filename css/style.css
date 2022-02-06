@@ -61,4 +61,6 @@ header{
   }
   .rounded-circle {
       background-color: rgb(202, 119, 104); /* Green */
+      height:60px;
+      width:60px;
     }
